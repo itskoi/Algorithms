@@ -4,6 +4,7 @@
 *.depend
 *.layout
 *.o
+main.cpp
 Sorting Algorithms/QuickSort/main.cpp
 Sorting Algorithms/MergeSort/main.cpp
 Sorting Algorithms/BoubleSort/main.cpp
@@ -12,4 +13,4 @@ Data Structures/Stack/main.cpp
 Data Structures/Queue/main.cpp
 Data Structures/Linked List/main.cpp
 Data Structures/Binary Tree/BST/main.cpp
-.vscode/settings.json
+.vscode
