@@ -1,3 +1,4 @@
+// Rank It <> Hackerearth
 #include <iostream>
 #include <algorithm>
 
@@ -23,6 +24,8 @@ int main() {
         //cout << BinarySearch(val, size, array) << endl;
         cout << BS(0, size - 1, val, size, array) << endl;
     }
+
+    // Free memory
     delete[] array;
     return 0;
 }
