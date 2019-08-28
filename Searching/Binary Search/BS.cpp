@@ -4,6 +4,7 @@
 using namespace std;
 
 int BinarySearch(int val, int size, int* array);
+int BS(int l, int r, int val, int size, int* array);
 
 int main() {
     // Input
@@ -19,7 +20,8 @@ int main() {
     cin >> Q;
     while(Q--) {
         int val; cin >> val;
-        cout << BinarySearch(val, size, array) << endl;
+        //cout << BinarySearch(val, size, array) << endl;
+        cout << BS(0, size - 1, val, size, array) << endl;
     }
     delete[] array;
     return 0;
@@ -35,5 +37,14 @@ int BinarySearch(int val, int size, int* array) {
         else l = mid + 1;
         mid = (l + r) >> 1; 
     }
+    return -1;
+}
+
+int BS(int l, int r, int val, int size, int* array) {
+    if (l > r) return -1;
+    int mid = l + r >> 1;
+    if (array[mid] == val) return mid + 1;
+    if (val > array[mid]) return BS(mid + 1, r, val, size, array);
+    else return BS(l, mid - 1, val, size, array);
     return -1;
 }
