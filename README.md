@@ -14,4 +14,4 @@
     }
 ```
 
-> ***Thành công là một quá trình của sự nỗ lực***
+> ***Thành công là quá trình của sự nỗ lực <3***
