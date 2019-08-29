@@ -11,4 +11,5 @@ public:
     void sort(int left, int right);
     void print();
     int getSize();
+    void swap(int&, int&);
 };

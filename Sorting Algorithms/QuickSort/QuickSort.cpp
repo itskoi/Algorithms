@@ -1,6 +1,5 @@
 #include "QuickSort.h"
 #include <iostream>
-#include <ctime>
 
 using namespace std;
 
@@ -20,24 +19,31 @@ void QuickSort::input() {
     }
 }
 
+void QuickSort::swap(int& a, int& b) {
+    int c = a;
+    a = b;
+    b = c;
+}
+// Aim: Devide whole array to 2 parts:
+// part 1: <= pivot
+// part 2: > pivot
 void QuickSort::sort(int left, int right) {
     // Initialize
     int l = left;
     int r = right;
-    srand(time(NULL) * left);
-    int pivot = rand() % (r - l) + l;
+    int pivot = _Container[(l + r) >> 1];
 
     // Sorting
-    while(l < r) {
-        while(_Container[l] < _Container[pivot]) l++;
-        while(_Container[r] > _Container[pivot]) r--;
-        if (l >= r) break;
+    while(l <= r) {
+        while(_Container[l] < pivot) l++;
+        while(_Container[r] > pivot) r--;
+        if (l > r) break;
         swap(_Container[l], _Container[r]);
         l++;
         r--;
     }
-    if (l < pivot && r != pivot) sort(l, pivot);
-    if (r > pivot && l != pivot) sort(pivot, r);
+    if (left < r) sort(l, r);
+    if (l < right) sort(l, right);
 }
 
 void QuickSort::print() {
