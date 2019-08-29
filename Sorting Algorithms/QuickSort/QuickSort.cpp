@@ -42,7 +42,7 @@ void QuickSort::sort(int left, int right) {
         l++;
         r--;
     }
-    if (left < r) sort(l, r);
+    if (left < r) sort(left, r);
     if (l < right) sort(l, right);
 }
 
