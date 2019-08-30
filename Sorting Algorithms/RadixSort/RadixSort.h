@@ -11,7 +11,5 @@ public:
     void input();
     void sort();
     void print();
-    int getMaxVal();
-    int getSize();
     int getDigit(int, int);
 };
