@@ -1,5 +1,5 @@
 # Algorithms
- - Programming languages: ***C++***
+ - Programming languages: ***C++ / C#***
  - Author: ***itskoi***
 ``` cpp
     #include <mathematics>
