@@ -4,6 +4,7 @@
 *.depend
 *.layout
 *.o
+**/bin
 main.cpp
 Sorting Algorithms/QuickSort/main.cpp
 Sorting Algorithms/MergeSort/main.cpp

@@ -1,0 +1,11 @@
+d:\Programmer\Git\Algorithms\Math\ExtendedEuclid\obj\Debug\netcoreapp2.2\ExtendedEuclid.csprojAssemblyReference.cache
+d:\Programmer\Git\Algorithms\Math\ExtendedEuclid\obj\Debug\netcoreapp2.2\ExtendedEuclid.csproj.CoreCompileInputs.cache
+d:\Programmer\Git\Algorithms\Math\ExtendedEuclid\obj\Debug\netcoreapp2.2\ExtendedEuclid.AssemblyInfoInputs.cache
+d:\Programmer\Git\Algorithms\Math\ExtendedEuclid\obj\Debug\netcoreapp2.2\ExtendedEuclid.AssemblyInfo.cs
+d:\Programmer\Git\Algorithms\Math\ExtendedEuclid\bin\Debug\netcoreapp2.2\ExtendedEuclid.deps.json
+d:\Programmer\Git\Algorithms\Math\ExtendedEuclid\bin\Debug\netcoreapp2.2\ExtendedEuclid.runtimeconfig.json
+d:\Programmer\Git\Algorithms\Math\ExtendedEuclid\bin\Debug\netcoreapp2.2\ExtendedEuclid.runtimeconfig.dev.json
+d:\Programmer\Git\Algorithms\Math\ExtendedEuclid\bin\Debug\netcoreapp2.2\ExtendedEuclid.dll
+d:\Programmer\Git\Algorithms\Math\ExtendedEuclid\bin\Debug\netcoreapp2.2\ExtendedEuclid.pdb
+d:\Programmer\Git\Algorithms\Math\ExtendedEuclid\obj\Debug\netcoreapp2.2\ExtendedEuclid.dll
+d:\Programmer\Git\Algorithms\Math\ExtendedEuclid\obj\Debug\netcoreapp2.2\ExtendedEuclid.pdb
