@@ -1,0 +1,11 @@
+d:\Programmer\Git\Algorithms\Math\Modulo\obj\Debug\netcoreapp2.2\Modulo.csprojAssemblyReference.cache
+d:\Programmer\Git\Algorithms\Math\Modulo\obj\Debug\netcoreapp2.2\Modulo.csproj.CoreCompileInputs.cache
+d:\Programmer\Git\Algorithms\Math\Modulo\obj\Debug\netcoreapp2.2\Modulo.AssemblyInfoInputs.cache
+d:\Programmer\Git\Algorithms\Math\Modulo\obj\Debug\netcoreapp2.2\Modulo.AssemblyInfo.cs
+d:\Programmer\Git\Algorithms\Math\Modulo\bin\Debug\netcoreapp2.2\Modulo.deps.json
+d:\Programmer\Git\Algorithms\Math\Modulo\bin\Debug\netcoreapp2.2\Modulo.runtimeconfig.json
+d:\Programmer\Git\Algorithms\Math\Modulo\bin\Debug\netcoreapp2.2\Modulo.runtimeconfig.dev.json
+d:\Programmer\Git\Algorithms\Math\Modulo\bin\Debug\netcoreapp2.2\Modulo.dll
+d:\Programmer\Git\Algorithms\Math\Modulo\bin\Debug\netcoreapp2.2\Modulo.pdb
+d:\Programmer\Git\Algorithms\Math\Modulo\obj\Debug\netcoreapp2.2\Modulo.dll
+d:\Programmer\Git\Algorithms\Math\Modulo\obj\Debug\netcoreapp2.2\Modulo.pdb
