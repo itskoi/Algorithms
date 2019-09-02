@@ -5,13 +5,5 @@
 *.layout
 *.o
 **/bin
-main.cpp
-Sorting Algorithms/QuickSort/main.cpp
-Sorting Algorithms/MergeSort/main.cpp
-Sorting Algorithms/BoubleSort/main.cpp
-Graph Theory/Dijsktra/main.cpp
-Data Structures/Stack/main.cpp
-Data Structures/Queue/main.cpp
-Data Structures/Linked List/main.cpp
-Data Structures/Binary Tree/BST/main.cpp
+**/main.cpp
 .vscode

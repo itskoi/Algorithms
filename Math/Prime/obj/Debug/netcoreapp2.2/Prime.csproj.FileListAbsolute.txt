@@ -1,0 +1,11 @@
+d:\Programmer\Git\Algorithms\Math\Prime\obj\Debug\netcoreapp2.2\Prime.csprojAssemblyReference.cache
+d:\Programmer\Git\Algorithms\Math\Prime\obj\Debug\netcoreapp2.2\Prime.csproj.CoreCompileInputs.cache
+d:\Programmer\Git\Algorithms\Math\Prime\obj\Debug\netcoreapp2.2\Prime.AssemblyInfoInputs.cache
+d:\Programmer\Git\Algorithms\Math\Prime\obj\Debug\netcoreapp2.2\Prime.AssemblyInfo.cs
+d:\Programmer\Git\Algorithms\Math\Prime\bin\Debug\netcoreapp2.2\Prime.deps.json
+d:\Programmer\Git\Algorithms\Math\Prime\bin\Debug\netcoreapp2.2\Prime.runtimeconfig.json
+d:\Programmer\Git\Algorithms\Math\Prime\bin\Debug\netcoreapp2.2\Prime.runtimeconfig.dev.json
+d:\Programmer\Git\Algorithms\Math\Prime\bin\Debug\netcoreapp2.2\Prime.dll
+d:\Programmer\Git\Algorithms\Math\Prime\bin\Debug\netcoreapp2.2\Prime.pdb
+d:\Programmer\Git\Algorithms\Math\Prime\obj\Debug\netcoreapp2.2\Prime.dll
+d:\Programmer\Git\Algorithms\Math\Prime\obj\Debug\netcoreapp2.2\Prime.pdb
