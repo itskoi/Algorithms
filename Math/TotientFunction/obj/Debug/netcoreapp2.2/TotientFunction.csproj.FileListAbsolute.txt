@@ -1,0 +1,11 @@
+d:\Programmer\Git\Algorithms\Math\TotientFunction\obj\Debug\netcoreapp2.2\TotientFunction.csprojAssemblyReference.cache
+d:\Programmer\Git\Algorithms\Math\TotientFunction\obj\Debug\netcoreapp2.2\TotientFunction.csproj.CoreCompileInputs.cache
+d:\Programmer\Git\Algorithms\Math\TotientFunction\obj\Debug\netcoreapp2.2\TotientFunction.AssemblyInfoInputs.cache
+d:\Programmer\Git\Algorithms\Math\TotientFunction\obj\Debug\netcoreapp2.2\TotientFunction.AssemblyInfo.cs
+d:\Programmer\Git\Algorithms\Math\TotientFunction\bin\Debug\netcoreapp2.2\TotientFunction.deps.json
+d:\Programmer\Git\Algorithms\Math\TotientFunction\bin\Debug\netcoreapp2.2\TotientFunction.runtimeconfig.json
+d:\Programmer\Git\Algorithms\Math\TotientFunction\bin\Debug\netcoreapp2.2\TotientFunction.runtimeconfig.dev.json
+d:\Programmer\Git\Algorithms\Math\TotientFunction\bin\Debug\netcoreapp2.2\TotientFunction.dll
+d:\Programmer\Git\Algorithms\Math\TotientFunction\bin\Debug\netcoreapp2.2\TotientFunction.pdb
+d:\Programmer\Git\Algorithms\Math\TotientFunction\obj\Debug\netcoreapp2.2\TotientFunction.dll
+d:\Programmer\Git\Algorithms\Math\TotientFunction\obj\Debug\netcoreapp2.2\TotientFunction.pdb

@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "d:\\Programmer\\Git\\Algorithms\\Math\\TotientFunction\\TotientFunction.csproj": {}
+  },
+  "projects": {
+    "d:\\Programmer\\Git\\Algorithms\\Math\\TotientFunction\\TotientFunction.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "d:\\Programmer\\Git\\Algorithms\\Math\\TotientFunction\\TotientFunction.csproj",
+        "projectName": "TotientFunction",
+        "projectPath": "d:\\Programmer\\Git\\Algorithms\\Math\\TotientFunction\\TotientFunction.csproj",
+        "packagesPath": "C:\\Users\\HK\\.nuget\\packages\\",
+        "outputPath": "d:\\Programmer\\Git\\Algorithms\\Math\\TotientFunction\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\HK\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
