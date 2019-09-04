@@ -1,0 +1,11 @@
+D:\Programmer\Git\Algorithms\Graph\BFS\obj\Debug\netcoreapp2.2\BFS.csprojAssemblyReference.cache
+D:\Programmer\Git\Algorithms\Graph\BFS\obj\Debug\netcoreapp2.2\BFS.csproj.CoreCompileInputs.cache
+D:\Programmer\Git\Algorithms\Graph\BFS\obj\Debug\netcoreapp2.2\BFS.AssemblyInfoInputs.cache
+D:\Programmer\Git\Algorithms\Graph\BFS\obj\Debug\netcoreapp2.2\BFS.AssemblyInfo.cs
+D:\Programmer\Git\Algorithms\Graph\BFS\bin\Debug\netcoreapp2.2\BFS.deps.json
+D:\Programmer\Git\Algorithms\Graph\BFS\bin\Debug\netcoreapp2.2\BFS.runtimeconfig.json
+D:\Programmer\Git\Algorithms\Graph\BFS\bin\Debug\netcoreapp2.2\BFS.runtimeconfig.dev.json
+D:\Programmer\Git\Algorithms\Graph\BFS\bin\Debug\netcoreapp2.2\BFS.dll
+D:\Programmer\Git\Algorithms\Graph\BFS\bin\Debug\netcoreapp2.2\BFS.pdb
+D:\Programmer\Git\Algorithms\Graph\BFS\obj\Debug\netcoreapp2.2\BFS.dll
+D:\Programmer\Git\Algorithms\Graph\BFS\obj\Debug\netcoreapp2.2\BFS.pdb
