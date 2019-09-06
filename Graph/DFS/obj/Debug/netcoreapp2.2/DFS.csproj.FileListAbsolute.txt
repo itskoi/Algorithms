@@ -1,0 +1,11 @@
+d:\Programmer\Git\Algorithms\Graph\DFS\obj\Debug\netcoreapp2.2\DFS.csprojAssemblyReference.cache
+d:\Programmer\Git\Algorithms\Graph\DFS\obj\Debug\netcoreapp2.2\DFS.csproj.CoreCompileInputs.cache
+d:\Programmer\Git\Algorithms\Graph\DFS\obj\Debug\netcoreapp2.2\DFS.AssemblyInfoInputs.cache
+d:\Programmer\Git\Algorithms\Graph\DFS\obj\Debug\netcoreapp2.2\DFS.AssemblyInfo.cs
+d:\Programmer\Git\Algorithms\Graph\DFS\bin\Debug\netcoreapp2.2\DFS.deps.json
+d:\Programmer\Git\Algorithms\Graph\DFS\bin\Debug\netcoreapp2.2\DFS.runtimeconfig.json
+d:\Programmer\Git\Algorithms\Graph\DFS\bin\Debug\netcoreapp2.2\DFS.runtimeconfig.dev.json
+d:\Programmer\Git\Algorithms\Graph\DFS\bin\Debug\netcoreapp2.2\DFS.dll
+d:\Programmer\Git\Algorithms\Graph\DFS\bin\Debug\netcoreapp2.2\DFS.pdb
+d:\Programmer\Git\Algorithms\Graph\DFS\obj\Debug\netcoreapp2.2\DFS.dll
+d:\Programmer\Git\Algorithms\Graph\DFS\obj\Debug\netcoreapp2.2\DFS.pdb
