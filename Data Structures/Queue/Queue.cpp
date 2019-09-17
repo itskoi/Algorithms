@@ -38,6 +38,7 @@ int Queue::getPeek() {
         return _Container[_Peek];
     } else {
         std::cout << "QUEUE is empty !!\n";
+        return -1;
     }
 }
 
