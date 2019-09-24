@@ -1,0 +1,11 @@
+d:\Programmer\Git\Algorithms\Data Structures\Advanced DS\SegmentTree\obj\Debug\netcoreapp2.2\SegmentTree.csprojAssemblyReference.cache
+d:\Programmer\Git\Algorithms\Data Structures\Advanced DS\SegmentTree\obj\Debug\netcoreapp2.2\SegmentTree.csproj.CoreCompileInputs.cache
+d:\Programmer\Git\Algorithms\Data Structures\Advanced DS\SegmentTree\obj\Debug\netcoreapp2.2\SegmentTree.AssemblyInfoInputs.cache
+d:\Programmer\Git\Algorithms\Data Structures\Advanced DS\SegmentTree\obj\Debug\netcoreapp2.2\SegmentTree.AssemblyInfo.cs
+d:\Programmer\Git\Algorithms\Data Structures\Advanced DS\SegmentTree\bin\Debug\netcoreapp2.2\SegmentTree.deps.json
+d:\Programmer\Git\Algorithms\Data Structures\Advanced DS\SegmentTree\bin\Debug\netcoreapp2.2\SegmentTree.runtimeconfig.json
+d:\Programmer\Git\Algorithms\Data Structures\Advanced DS\SegmentTree\bin\Debug\netcoreapp2.2\SegmentTree.runtimeconfig.dev.json
+d:\Programmer\Git\Algorithms\Data Structures\Advanced DS\SegmentTree\bin\Debug\netcoreapp2.2\SegmentTree.dll
+d:\Programmer\Git\Algorithms\Data Structures\Advanced DS\SegmentTree\bin\Debug\netcoreapp2.2\SegmentTree.pdb
+d:\Programmer\Git\Algorithms\Data Structures\Advanced DS\SegmentTree\obj\Debug\netcoreapp2.2\SegmentTree.dll
+d:\Programmer\Git\Algorithms\Data Structures\Advanced DS\SegmentTree\obj\Debug\netcoreapp2.2\SegmentTree.pdb
