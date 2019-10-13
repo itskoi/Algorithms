@@ -9,3 +9,13 @@ d:\Programmer\Git\Algorithms\Math\TotientFunction\bin\Debug\netcoreapp2.2\Totien
 d:\Programmer\Git\Algorithms\Math\TotientFunction\bin\Debug\netcoreapp2.2\TotientFunction.pdb
 d:\Programmer\Git\Algorithms\Math\TotientFunction\obj\Debug\netcoreapp2.2\TotientFunction.dll
 d:\Programmer\Git\Algorithms\Math\TotientFunction\obj\Debug\netcoreapp2.2\TotientFunction.pdb
+e:\Coding\Git\Algorithms\Math\TotientFunction\bin\Debug\netcoreapp2.2\TotientFunction.deps.json
+e:\Coding\Git\Algorithms\Math\TotientFunction\bin\Debug\netcoreapp2.2\TotientFunction.runtimeconfig.json
+e:\Coding\Git\Algorithms\Math\TotientFunction\bin\Debug\netcoreapp2.2\TotientFunction.runtimeconfig.dev.json
+e:\Coding\Git\Algorithms\Math\TotientFunction\bin\Debug\netcoreapp2.2\TotientFunction.dll
+e:\Coding\Git\Algorithms\Math\TotientFunction\bin\Debug\netcoreapp2.2\TotientFunction.pdb
+e:\Coding\Git\Algorithms\Math\TotientFunction\obj\Debug\netcoreapp2.2\TotientFunction.csprojAssemblyReference.cache
+e:\Coding\Git\Algorithms\Math\TotientFunction\obj\Debug\netcoreapp2.2\TotientFunction.AssemblyInfoInputs.cache
+e:\Coding\Git\Algorithms\Math\TotientFunction\obj\Debug\netcoreapp2.2\TotientFunction.AssemblyInfo.cs
+e:\Coding\Git\Algorithms\Math\TotientFunction\obj\Debug\netcoreapp2.2\TotientFunction.dll
+e:\Coding\Git\Algorithms\Math\TotientFunction\obj\Debug\netcoreapp2.2\TotientFunction.pdb

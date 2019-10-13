@@ -19,3 +19,13 @@ d:\Coding\Git\Algorithms\Math\Prime\obj\Debug\netcoreapp2.2\Prime.AssemblyInfoIn
 d:\Coding\Git\Algorithms\Math\Prime\obj\Debug\netcoreapp2.2\Prime.AssemblyInfo.cs
 d:\Coding\Git\Algorithms\Math\Prime\obj\Debug\netcoreapp2.2\Prime.dll
 d:\Coding\Git\Algorithms\Math\Prime\obj\Debug\netcoreapp2.2\Prime.pdb
+e:\Coding\Git\Algorithms\Math\Prime\bin\Debug\netcoreapp2.2\Prime.deps.json
+e:\Coding\Git\Algorithms\Math\Prime\bin\Debug\netcoreapp2.2\Prime.runtimeconfig.json
+e:\Coding\Git\Algorithms\Math\Prime\bin\Debug\netcoreapp2.2\Prime.runtimeconfig.dev.json
+e:\Coding\Git\Algorithms\Math\Prime\bin\Debug\netcoreapp2.2\Prime.dll
+e:\Coding\Git\Algorithms\Math\Prime\bin\Debug\netcoreapp2.2\Prime.pdb
+e:\Coding\Git\Algorithms\Math\Prime\obj\Debug\netcoreapp2.2\Prime.csprojAssemblyReference.cache
+e:\Coding\Git\Algorithms\Math\Prime\obj\Debug\netcoreapp2.2\Prime.AssemblyInfoInputs.cache
+e:\Coding\Git\Algorithms\Math\Prime\obj\Debug\netcoreapp2.2\Prime.AssemblyInfo.cs
+e:\Coding\Git\Algorithms\Math\Prime\obj\Debug\netcoreapp2.2\Prime.dll
+e:\Coding\Git\Algorithms\Math\Prime\obj\Debug\netcoreapp2.2\Prime.pdb

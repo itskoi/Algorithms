@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "d:\\Coding\\Git\\Algorithms\\Math\\Prime\\Prime.csproj": {}
+    "e:\\Coding\\Git\\Algorithms\\Math\\Prime\\Prime.csproj": {}
   },
   "projects": {
-    "d:\\Coding\\Git\\Algorithms\\Math\\Prime\\Prime.csproj": {
+    "e:\\Coding\\Git\\Algorithms\\Math\\Prime\\Prime.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\Coding\\Git\\Algorithms\\Math\\Prime\\Prime.csproj",
+        "projectUniqueName": "e:\\Coding\\Git\\Algorithms\\Math\\Prime\\Prime.csproj",
         "projectName": "Prime",
-        "projectPath": "d:\\Coding\\Git\\Algorithms\\Math\\Prime\\Prime.csproj",
-        "packagesPath": "C:\\Users\\Koi\\.nuget\\packages\\",
-        "outputPath": "d:\\Coding\\Git\\Algorithms\\Math\\Prime\\obj\\",
+        "projectPath": "e:\\Coding\\Git\\Algorithms\\Math\\Prime\\Prime.csproj",
+        "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
+        "outputPath": "e:\\Coding\\Git\\Algorithms\\Math\\Prime\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Koi\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp2.2"

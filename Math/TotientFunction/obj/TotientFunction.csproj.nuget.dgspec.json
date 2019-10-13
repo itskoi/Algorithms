@@ -1,28 +1,30 @@
 {
   "format": 1,
   "restore": {
-    "d:\\Programmer\\Git\\Algorithms\\Math\\TotientFunction\\TotientFunction.csproj": {}
+    "e:\\Coding\\Git\\Algorithms\\Math\\TotientFunction\\TotientFunction.csproj": {}
   },
   "projects": {
-    "d:\\Programmer\\Git\\Algorithms\\Math\\TotientFunction\\TotientFunction.csproj": {
+    "e:\\Coding\\Git\\Algorithms\\Math\\TotientFunction\\TotientFunction.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\Programmer\\Git\\Algorithms\\Math\\TotientFunction\\TotientFunction.csproj",
+        "projectUniqueName": "e:\\Coding\\Git\\Algorithms\\Math\\TotientFunction\\TotientFunction.csproj",
         "projectName": "TotientFunction",
-        "projectPath": "d:\\Programmer\\Git\\Algorithms\\Math\\TotientFunction\\TotientFunction.csproj",
-        "packagesPath": "C:\\Users\\HK\\.nuget\\packages\\",
-        "outputPath": "d:\\Programmer\\Git\\Algorithms\\Math\\TotientFunction\\obj\\",
+        "projectPath": "e:\\Coding\\Git\\Algorithms\\Math\\TotientFunction\\TotientFunction.csproj",
+        "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
+        "outputPath": "e:\\Coding\\Git\\Algorithms\\Math\\TotientFunction\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\HK\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp2.2"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -47,10 +49,16 @@
             }
           },
           "imports": [
-            "net461"
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
           ],
           "assetTargetFallback": true,
-          "warn": true
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }
